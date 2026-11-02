@@ -1,5 +1,5 @@
 ---
-name: rust-best-practices
+name: wrust
 description: >-
     编写符合惯例、健壮、可维护的 Rust。每当编写、审阅、重构、调试或讲解 Rust 代码时，
     都应使用此 skill：包括新的 crate、模块、函数、结构体、trait、错误类型、异步代码、
