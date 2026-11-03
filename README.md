@@ -1,2 +1,0 @@
-# wrust
-my rust skill
